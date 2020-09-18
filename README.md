@@ -1,6 +1,6 @@
 # Prateleira - Docs
 
-The Prateleira app, is a mobile application to control and share medicine's stoke and programming medication's routines
+The Prateleira app, is a mobile application to control and share medicine's stock and programming medication's routines
 
 This repository has as purpose, storing and sharing all artifacts produced for the undergraduate thesis of the Software Engineering Bachelor, what includes all documents created for the phases of software engineering.
 
