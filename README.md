@@ -5,6 +5,7 @@ The Prateleira app, is a mobile application to control and share medicine's stoc
 This repository has as purpose, storing and sharing all artifacts produced for the undergraduate thesis of the Software Engineering Bachelor, what includes all documents created for the phases of software engineering.
 
 - [Prototype](https://www.figma.com/proto/G1UGoDRXQIYDrzmMC8jzGg/Public-Link-MVP-1?scaling=scale-down&node-id=18%3A45)
+
 The complete design of the app, made with Figma.
 
 - [Prateleira - API](https://bitbucket.org/willguiraldelli/prateleira-api/src/master/)
